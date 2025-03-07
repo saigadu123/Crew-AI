@@ -1,0 +1,11 @@
+Employee ID,First Name,Last Name,Email,Level,Years of Experience,DOJ,Compensation (USD),Primary Skill,Secondary Skill,Role,Department,Education,Organization Entity,Location
+EMP-1001,John,Doe,john.doe@company.com,L3,8,6/15/2018,"120,000",Data Engineering,Cloud Computing,Data Engineer,IT,"B.Tech, Computer Science",Digital Solutions,"Dubai, UAE"
+EMP-1002,Jane,Smith,jane.smith@company.com,L2,6,9/20/2019,"110,000",Machine Learning,Data Science,AI Specialist,AI & Analytics,"M.Sc, Data Science",AI & Automation,"Abu Dhabi, UAE"
+EMP-1003,Alex,Kumar,alex.kumar@company.com,L1,3,1/5/2021,"95,000",Python Programming,Data Engineering,Data Scientist,IT,"B.E, Information Technology",Digital Analytics,"Bangalore, India"
+EMP-1004,Lisa,Wong,lisa.wong@company.com,L4,12,12/10/2017,"135,000",Cloud Architecture,DevOps,Cloud Architect,Cloud Team,"M.Tech, Cloud Computing",Enterprise Solutions,"Dubai, UAE"
+EMP-1005,Robert,Kim,robert.kim@company.com,L2,5,3/25/2020,"105,000",AI/ML Model Development,Big Data,ML Engineer,AI & Analytics,"B.Sc, Computer Science",AI & Automation,Singapore
+EMP-1006,Sophia,Brown,sophia.brown@company.com,L5,15,8/30/2016,"145,000",Business Intelligence,Data Visualization,BI Consultant,BI & Analytics,"MBA, Business Analytics",Business Intelligence,"London, UK"
+EMP-1007,Tom,Hanks,tom.hanks@company.com,L5,18,7/15/2015,"155,000",Data Governance,Data Strategy,Data Manager,IT Strategy,"MBA, Data Governance",Strategic IT,"New York, USA"
+EMP-1008,Emily,Davis,emily.davis@company.com,L1,2,2/14/2022,"85,000",SQL Development,ETL Pipelines,Data Engineer,IT,"B.Tech, Software Engineering",Data Engineering,"Bangalore, India"
+EMP-1009,Raj,Mehta,raj.mehta@company.com,L3,7,11/10/2019,"98,000",AI Ops,Automation,AI Engineer,AI & Automation,"M.Sc, AI & Robotics",AI Solutions,"Abu Dhabi, UAE"
+EMP-1010,Sam,Lee,sam.lee@company.com,L4,10,5/23/2018,"132,000",NLP,Deep Learning,AI Scientist,AI & Analytics,"Ph.D, Artificial Intelligence",AI Research Lab,"Dubai, UAE"

@@ -1,2 +1,6 @@
 crewai
 crewai_tools
+chardet
+matplotlib
+seaborn
+langchain_openai
