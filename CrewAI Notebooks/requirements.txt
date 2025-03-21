@@ -1,0 +1,6 @@
+crewai
+python-dotenv
+openai
+langchain
+crewai[tools]
+bs4
